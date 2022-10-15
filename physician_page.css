@@ -1,0 +1,53 @@
+.signOutbtn{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 90%;
+    top: 10%;
+    position: fixed;
+}
+.phyP{
+    position: fixed;
+    font-family: Helvetica;
+    font-size: xx-large;
+    color: aliceblue;
+    margin-top: 2.5%;
+    margin-left: 5%;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+    font: bold;
+    font-family: Helvetica;
+    font-size: xx-large;
+}
+
+button{
+    background-color: white;
+    border: 0;
+
+    width: 300px;
+    height: 500px;
+}
+
+.actB{
+    position: relative;
+}
+.fText1{
+    position: absolute;
+    top: 17px;
+    left: 45px;
+}
+.activity{
+    background-color: #171717;
+    position: absolute;
+    left: 400px;
+    top: 25%;
+}
+.dataV{
+    background-color: #171717;
+    position: absolute;
+    left: 750px;
+    top: 25%;
+}

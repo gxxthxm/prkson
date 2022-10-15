@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font: bold;
+    font-family: Helvetica;
+    font-size: xx-large;
+}
+.helpF{
+    position: fixed;
+    font-family: Helvetica;
+    font-size: xx-large;
+    color: aliceblue;
+    margin-top: 2.5%;
+    margin-left: 5%;
+}
+
+.signOutbtn{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 90%;
+    top: 10%;
+    
+}
+.yTC{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: medium;
+}
+.signOutbtn{
+    position: fixed;
+}
